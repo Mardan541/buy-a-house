@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    height: 150px;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-image: url(fon.jpg);
+    background-position: center;
+    text-align: center;
+}
+
+main{
+    height: 500px;
+    color: aliceblue;
+    
+}
+
+.left{
+    float: left;
+    width: 50%;
+    height: 1000px;
+    background-color: rgb(69, 69, 69);
+    background-position: center;
+    
+}
+
+.right{
+    float: right;
+    width: 50%;
+    height: 1000px;
+    background-color: rgb(69, 69, 69);
+}
